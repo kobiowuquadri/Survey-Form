@@ -75,6 +75,10 @@ textarea {
   line-height: inherit;
 }
 
+textarea{
+    padding: 10px;
+}
+
 button {
   border: none;
 }
